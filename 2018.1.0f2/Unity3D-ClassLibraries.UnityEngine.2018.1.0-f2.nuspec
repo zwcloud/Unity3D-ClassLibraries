@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>Unity3D-ClassLibraries.UnityEngine</id>
+    <version>2018.1.0-f2</version>
+    <title></title>
+    <authors>Unity</authors>
+    <owners>Unity</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/zwcloud/Unity3D-ClassLibraries</projectUrl>
+    <description>For any .NET Project referencing `UnityEngine.dll`. **Unofficial**</description>
+    <releaseNotes>added UnityEngine.dll from Unity 2018.1.0f2</releaseNotes>
+    <copyright>Unity</copyright>
+    <tags>Unity3D</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="UnityEngine" targetFramework="" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="UnityEngine.dll" target="UnityEngine.dll" />
+    <file src="UnityEngine.xml" target="UnityEngine.xml" />
+  </files>
+</package>
