@@ -7,4 +7,4 @@ It's useful when build a .NET Project on a remote build pipeline or CI/CD such a
 # Usage
 
 1. Add this repo as a submodule in the root directoy of your main project repo.
-2. In your main project, add reference to <relative-path-to>/Unity3D-ClassLibraries/<UnityVersion>/UnityEngine.dll
+2. In your main project, add reference to `<relative-path-to>/Unity3D-ClassLibraries\<UnityVersion>/UnityEngine.dll`
